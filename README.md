@@ -1,6 +1,6 @@
 # Web Worker example
 
-[http://lab.moogs.io/web-worker-example](http://lab.moogs.io/web-worker-example)
+[https://lab.miguelmota.com/web-worker-example](https://lab.miguelmota.com/web-worker-example)
 
 # License
 
