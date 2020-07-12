@@ -10,7 +10,7 @@ while(end) {
   }
 }
 
-self.postMessage('add done.');
+self.postMessage('all done.');
 
 // called implicitly
 // self.terminate();
